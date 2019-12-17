@@ -3,4 +3,4 @@
 ## Running the tests
 ./gradlew test
 
-https://codingdojo.org/kata/Bowling/
+http://codingdojo.org/kata/Bowling/
